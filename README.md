@@ -10,7 +10,5 @@ Some memos for what I learned from day to day at work. Before I figure out how t
 
 ## License
 
-© 2019 Kirin Lin
-
-This repository is licensed under the MIT license. See `LICENSE` for details.
+This repository is licensed under the MIT license. See [`LICENSE`](./LICENSE) for details.
 
