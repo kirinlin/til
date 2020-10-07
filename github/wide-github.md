@@ -4,7 +4,7 @@
 
 [GitHub / wide-github](https://github.com/xthexder/wide-github)
 
-After installation, add following line:
+After installation as a userscript, add following line:
 
 ```javascript
 // @include     *github.ibm.com*
