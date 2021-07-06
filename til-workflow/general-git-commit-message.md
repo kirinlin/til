@@ -16,3 +16,6 @@ The add command will be:
 
 The update command will be:  
 `git commit -m "Update til: General Git Commit Message"`
+
+The move command will be:  
+`git commit -m "Move til: General Git Commit Message"`
