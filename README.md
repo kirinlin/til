@@ -11,4 +11,3 @@ Some memos for what I learned from day to day at work. Before I figure out how t
 ## License
 
 This repository is licensed under the MIT license. See [`LICENSE`](./LICENSE) for details.
-
