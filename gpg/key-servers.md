@@ -1,8 +1,8 @@
 # HKPS key servers
 
-- http://hkps.pool.sks-keyservers.net
+- https://keys.openpgp.org/
 - https://keyserver.ubuntu.com/
-- https://pgp.mit.edu
+- https://pgp.mit.edu (too slow to be used)
 
 ## Own
 
