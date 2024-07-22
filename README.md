@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-Some memos for what I learned from day to day at work. Before I figure out how to do a blog post.
+Some memos for what I learned from daily tasks. Before I figure out how to do a blog post.
 
 ## Learned from
 
